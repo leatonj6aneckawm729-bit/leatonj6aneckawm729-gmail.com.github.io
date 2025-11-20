@@ -1,0 +1,12 @@
+{
+  "name": "作品集网页",
+  "description": null,
+  "icon": null,
+  "coverImg": "https://agent-statics-tc.nuwax.com/store/adc695e2f49f46e79dcd78d7ac02dca9.png",
+  "coverImgSourceType": "SYSTEM",
+  "needLogin": true,
+  "proxyConfigs": null,
+  "pageArgConfigs": null,
+  "dataSourcePlugins": null,
+  "dataSourceWorkflows": null
+}
